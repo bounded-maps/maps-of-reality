@@ -25,9 +25,6 @@ To see the actual content, table of contents, start here: [main.md](main.md)
 - **Explicit limits**  
   Every model has boundaries. Where something breaks is as important as where it works.
 
-- **Humans are constrained systems**  
-  Cognition, belief, morality, and behavior are shaped by evolution, incentives, and finite resources.
-
 ---
 
 ## Contributing
