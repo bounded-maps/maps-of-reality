@@ -1,0 +1,1 @@
+Dont trade time for money
